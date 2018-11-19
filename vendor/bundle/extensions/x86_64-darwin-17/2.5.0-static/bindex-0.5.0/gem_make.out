@@ -1,0 +1,15 @@
+current directory: /Users/idohou/Desktop/12weeks/reading/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/idohou/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181119-1350-uyntup.rb extconf.rb
+creating Makefile
+
+current directory: /Users/idohou/Desktop/12weeks/reading/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/idohou/Desktop/12weeks/reading/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/idohou/Desktop/12weeks/reading/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20181119-1350-bad1gz/bindex
